@@ -6,7 +6,7 @@ services:
       VERSION: "11"
       USERNAME: "Admin"
       PASSWORD: "wereis1@"
-      RAM_SIZE: "16G"
+      RAM_SIZE: "14G"
       CPU_CORES: "4"
       DISK_SIZE: "500G"
     devices:
